@@ -1,0 +1,14 @@
+i{
+    cursor: pointer;
+}
+
+#cards{
+    display:flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+   margin:2px 80px
+
+}
+.fa-trash:hover{
+    color:red;
+}
